@@ -21,5 +21,3 @@ The dataset (`air_quality.csv`) contains:
 - **PM2.5**, **PM10**, **NO2**, **SO2** – Pollutant levels (µg/m³)  
 - **AQI** – Air Quality Index  
 
-Example:
-****
